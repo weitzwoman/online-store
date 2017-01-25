@@ -6,7 +6,7 @@
     "Tracie Weitzman <tlweitzman@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/weitzwoman/online-store",
   "ignore": [
     "**/.*",
     "node_modules",
